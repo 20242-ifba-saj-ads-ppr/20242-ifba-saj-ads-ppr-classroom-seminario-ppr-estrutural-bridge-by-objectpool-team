@@ -1,7 +1,6 @@
 package bridge.abst;
 
 import java.util.Map;
-
 import bridge.impl.RpgRender;
 
 public abstract class RpgCharacter {
